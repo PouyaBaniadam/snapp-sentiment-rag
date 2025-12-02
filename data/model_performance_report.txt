@@ -1,0 +1,40 @@
+========================================
+        MODEL PERFORMANCE REPORT
+========================================
+
+Model: gpt-4o
+--------------------
+Accuracy : 0.8354
+F1 Score : 0.8329
+Precision: 0.8656
+Recall   : 0.8354
+
+Model: mistral-small-2503
+--------------------
+Accuracy : 0.8137
+F1 Score : 0.8083
+Precision: 0.8482
+Recall   : 0.8137
+
+Model: gpt-4.1
+--------------------
+Accuracy : 0.8367
+F1 Score : 0.8345
+Precision: 0.8673
+Recall   : 0.8367
+
+Model: gpt-4.1-nano
+--------------------
+Accuracy : 0.8394
+F1 Score : 0.8363
+Precision: 0.8598
+Recall   : 0.8394
+
+Model: gpt-4.1-mini
+--------------------
+Accuracy : 0.8427
+F1 Score : 0.8395
+Precision: 0.8666
+Recall   : 0.8427
+
+========================================
